@@ -1,6 +1,9 @@
-Para inserir código no documento - https://pt.sharelatex.com/learn/Code_listing#Captions_and_the_list_of_Listings
-é possível customizar as cores de palavras reservadas, comentários... - http://latexcolor.com/
-Dúvidas sobre anexo e apendice: http://www.tudosobremonografia.com/2011/01/diferenca-entre-anexo-e-apendice.html
+# Sobre Latex
+
+- [Apostila sobre normas da ABNT e latex](http://mtm.ufsc.br/~ebatista/Disciplinas_2012_2_arquivos/apostila.pdf)
+- [Para inserir código no documento](https://pt.sharelatex.com/learn/Code_listing#Captions_and_the_list_of_Listings)
+- [Customizando as cores de palavras reservadas, comentários...](http://latexcolor.com/)
+- [Dúvidas sobre anexo e apendice](http://www.tudosobremonografia.com/2011/01/diferenca-entre-anexo-e-apendice.html)
 
 ## Tabelas
 \begin{table}[H]
