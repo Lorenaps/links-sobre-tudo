@@ -1,3 +1,5 @@
+Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar ctrl+f nas mensagens antigas <3
+
 # Visualização de Dados
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html)
 - [15 Data Visualizations That Will Blow Your Mind](https://blog.udacity.com/2015/01/15-data-visualizations-will-blow-mind.html)
@@ -14,3 +16,5 @@
 
 # Aprendizagem de Máquina
 - [Modelos de Regressão](https://scholarsarchive.byu.edu/facpub/2322/)
+
+# Para o _bunito_ do Latex tem uma arquivo separado
