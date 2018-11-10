@@ -4,7 +4,8 @@ Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar c
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html)
 - [15 Data Visualizations That Will Blow Your Mind](https://blog.udacity.com/2015/01/15-data-visualizations-will-blow-mind.html)
 - [Tutorial sobre Vegalite rápido, simples e caceteiro](https://vega.github.io/vega-lite/tutorials/getting_started.html)
-
+- [Notebooks de introdução ao Observable](https://beta.observablehq.com/collection/@observablehq/introduction)
+- [Guia sobre eixos e legendas](https://beta.observablehq.com/@jheer/a-guide-to-guides-axes-legends-in-vega)
 # Python
 - [Trabalhando com muitos arquivos](http://jonathansoma.com/lede/foundations-2017/classes/working-with-many-files/class/)
 
