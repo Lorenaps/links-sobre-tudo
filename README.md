@@ -17,5 +17,6 @@ Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar c
 
 # Aprendizagem de Máquina
 - [Modelos de Regressão](https://scholarsarchive.byu.edu/facpub/2322/)
+- [Afinal, Por Que a Regularização Ajuda a Reduzir o Overfitting? - Deep Learning Book](http://deeplearningbook.com.br/afinal-por-que-a-regularizacao-ajuda-a-reduzir-o-overfitting/)
 
 # Para o _bunito_ do Latex tem uma arquivo separado
