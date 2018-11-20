@@ -23,6 +23,6 @@ Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar c
 - Imagens aleatórias para inserir
   - [Lorem Flickr](https://loremflickr.com/)
   - [Picsum](https://picsum.photos/)
-- [Problema de ter sempre que rodar o `ng serve` para atualizar a aplicação](https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers)
+- [**Angular** - Problema de ter sempre que rodar o `ng serve` para atualizar a aplicação](https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers)
   
 # Para o _bunito_ do Latex tem uma arquivo separado
