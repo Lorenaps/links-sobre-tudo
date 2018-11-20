@@ -19,4 +19,10 @@ Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar c
 - [Modelos de Regressão](https://scholarsarchive.byu.edu/facpub/2322/)
 - [Afinal, Por Que a Regularização Ajuda a Reduzir o Overfitting? - Deep Learning Book](http://deeplearningbook.com.br/afinal-por-que-a-regularizacao-ajuda-a-reduzir-o-overfitting/)
 
+# Frontend
+- Imagens aleatórias para inserir
+  - [Lorem Flickr](https://loremflickr.com/)
+  - [Picsum](https://picsum.photos/)
+- [Problema de ter sempre que rodar o `ng serve` para atualizar a aplicação](https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers)
+  
 # Para o _bunito_ do Latex tem uma arquivo separado
