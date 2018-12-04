@@ -6,6 +6,15 @@ Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar c
 - [Tutorial sobre Vegalite rápido, simples e caceteiro](https://vega.github.io/vega-lite/tutorials/getting_started.html)
 - [Notebooks de introdução ao Observable](https://beta.observablehq.com/collection/@observablehq/introduction)
 - [Guia sobre eixos e legendas](https://beta.observablehq.com/@jheer/a-guide-to-guides-axes-legends-in-vega)
+### Cores:
+- [The Power of The Palette: Why Color is Key in Data Visualization and How to Use It](https://theblog.adobe.com/the-power-of-the-palette-why-color-is-key-in-data-visualization-and-how-to-use-it/)
+- [ColorBrewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+- [Criando paleta de cores sequencial ou divergente a partir da indicação de cores base](http://gka.github.io/palettes/#colors=lightyellow,orange,deeppink,darkred|steps=7|bez=1|coL=1)
+- [Criando paletas HCL](http://tristen.ca/hcl-picker/#/hlc/6/1/15534C/E2E062)
+- [Gerando paleta automaticamente](https://coolors.co/app)
+- [Your Friendly Guide to Colors in Data Visualisation](https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/)
+- [Exercícios para estudar cores](https://color.method.ac/)
+
 # Python
 - [Trabalhando com muitos arquivos](http://jonathansoma.com/lede/foundations-2017/classes/working-with-many-files/class/)
 
