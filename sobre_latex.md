@@ -4,6 +4,7 @@
 - [Para inserir código no documento](https://pt.sharelatex.com/learn/Code_listing#Captions_and_the_list_of_Listings)
 - [Customizando as cores de palavras reservadas, comentários...](http://latexcolor.com/)
 - [Dúvidas sobre anexo e apendice](http://www.tudosobremonografia.com/2011/01/diferenca-entre-anexo-e-apendice.html)
+- [LaTex in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 ## Tabelas
 \begin{table}[H]
