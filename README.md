@@ -37,5 +37,8 @@ Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar c
 ## Angular
 - [Problema de ter sempre que rodar o `ng serve` para atualizar a aplicação](https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers)
   
-# Para o _bunito_ do Latex tem uma arquivo separado (E cadê? Vou largar o doce aqui mesmo.)
-- [LaTex in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+# Para o _bunito_ do Latex tem uma arquivo separado
+
+# Tensorflow
+- [Tensorflow + Windows](https://wesinalves.github.io/tensorflow/2018/09/13/instalacao-windows.html)
+- [Tensorflow + Windows](https://stackabuse.com/installing-tensorflow-on-windows/)
