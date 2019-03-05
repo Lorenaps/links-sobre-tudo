@@ -1,4 +1,6 @@
-# Sobre Latex
+# Sobre Latex e Publicaçes
+
+## Latex
 
 - [Apostila sobre normas da ABNT e latex](http://mtm.ufsc.br/~ebatista/Disciplinas_2012_2_arquivos/apostila.pdf)
 - [Para inserir código no documento](https://pt.sharelatex.com/learn/Code_listing#Captions_and_the_list_of_Listings)
@@ -30,3 +32,7 @@ Vc especifica o tamanho de cada coluna de acordo com a qtd de colunas
 se fossem 3 colunas, seria {|p{5cm}|p{3cm}|p{4cm}|}
 obs: atenção aos | | 
 obs2: ele aceita decimal tbm, tipo {|2,5cm|}
+
+## Publicaçes
+
+- [Algumas normas da CAPES](http://www.cnpq.br/view/-/journal_content/56_INSTANCE_0oED/10157/100352)
