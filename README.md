@@ -1,4 +1,5 @@
 Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar ctrl+f nas mensagens antigas <3
+**Para o _bunito_ do Latex tem uma arquivo separado**
 
 # Visualização de Dados
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html)
@@ -41,8 +42,6 @@ Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar c
 ## Angular
 - [Problema de ter sempre que rodar o `ng serve` para atualizar a aplicação](https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers)
   
-# Para o _bunito_ do Latex tem uma arquivo separado
-
 # Tensorflow
-- [Tensorflow + Windows](https://wesinalves.github.io/tensorflow/2018/09/13/instalacao-windows.html)
-- [Tensorflow + Windows](https://stackabuse.com/installing-tensorflow-on-windows/)
+- [Tensorflow + Windows - Tutorial 1](https://wesinalves.github.io/tensorflow/2018/09/13/instalacao-windows.html)
+- [Tensorflow + Windows - Tutorial 2](https://stackabuse.com/installing-tensorflow-on-windows/)
