@@ -9,6 +9,10 @@
 - [LaTex in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - [Separadores de texto](https://tex.stackexchange.com/questions/237110/placing-a-decorative-separator-in-text)
 - [Separadores mais invocados](https://tex.stackexchange.com/questions/32711/totally-sweet-horizontal-rules-in-latex)
+- [Wrong page number of References in toc (scrreprt)](https://tex.stackexchange.com/questions/154740/wrong-page-number-of-references-in-toc-scrreprt/154744)
+- [LaTeX/Source Code Listings](https://en.wikibooks.org/wiki/LaTeX/Source_Code_Listings)
+- [What is the difference between “Page Break” and “New Page”?](https://tex.stackexchange.com/questions/9852/what-is-the-difference-between-page-break-and-new-page)
+- [Line breaks and blank spaces](https://tex.stackexchange.com/questions/9852/what-is-the-difference-between-page-break-and-new-page)
 
 ## Tabelas
 \begin{table}[H]
