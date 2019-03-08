@@ -19,6 +19,8 @@ Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar c
 # Python
 - [Trabalhando com muitos arquivos](http://jonathansoma.com/lede/foundations-2017/classes/working-with-many-files/class/)
 - [Pyplot: LaTeX Math Env.](https://stackoverflow.com/questions/27474322/why-i-get-error-while-trying-to-use-latex-in-plots-label)
+- [Modules vs Packages vs Libraries in Python](https://knowpapa.com/modpaclib-py/)
+- 
 
 ## Pandas 
 - [Lendo csv com Pandas](https://medium.com/@kadek/elegantly-reading-multiple-csvs-into-pandas-e1a76843b688)
