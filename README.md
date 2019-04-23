@@ -16,6 +16,10 @@ Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar c
 - [Your Friendly Guide to Colors in Data Visualisation](https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/)
 - [Exercícios para estudar cores](https://color.method.ac/)
 
+# Layouts interessantes
+- [On Average](https://99percentinvisible.org/episode/on-average/)
+- [Híbridos](https://hibridos.cc/en/rituals/)
+
 # Python
 - [Trabalhando com muitos arquivos](http://jonathansoma.com/lede/foundations-2017/classes/working-with-many-files/class/)
 - [Pyplot: LaTeX Math Env.](https://stackoverflow.com/questions/27474322/why-i-get-error-while-trying-to-use-latex-in-plots-label)
