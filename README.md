@@ -3,6 +3,8 @@ Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar c
 
 # Visualização de Dados
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html)
+- [From Data to Viz](https://www.data-to-viz.com/)
+- [IBM - Visual theories applied data](https://www.ibm.com/design/v1/language/experience/data-visualization/visualization/)
 - [15 Data Visualizations That Will Blow Your Mind](https://blog.udacity.com/2015/01/15-data-visualizations-will-blow-mind.html)
 - [Tutorial sobre Vegalite rápido, simples e caceteiro](https://vega.github.io/vega-lite/tutorials/getting_started.html)
 - [Notebooks de introdução ao Observable](https://beta.observablehq.com/collection/@observablehq/introduction)
