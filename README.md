@@ -9,6 +9,8 @@ Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar c
 - [Tutorial sobre Vegalite rápido, simples e caceteiro](https://vega.github.io/vega-lite/tutorials/getting_started.html)
 - [Notebooks de introdução ao Observable](https://beta.observablehq.com/collection/@observablehq/introduction)
 - [Guia sobre eixos e legendas](https://beta.observablehq.com/@jheer/a-guide-to-guides-axes-legends-in-vega)
+- [Viser is a toolkit fit for data vis engineer](https://viserjs.github.io/demoHome.html)
+
 ### Cores:
 - [The Power of The Palette: Why Color is Key in Data Visualization and How to Use It](https://theblog.adobe.com/the-power-of-the-palette-why-color-is-key-in-data-visualization-and-how-to-use-it/)
 - [ColorBrewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
