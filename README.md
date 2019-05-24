@@ -55,3 +55,6 @@ Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar c
 # Tensorflow
 - [Tensorflow + Windows - Tutorial 1](https://wesinalves.github.io/tensorflow/2018/09/13/instalacao-windows.html)
 - [Tensorflow + Windows - Tutorial 2](https://stackabuse.com/installing-tensorflow-on-windows/)
+
+# Linux
+- [Crontab - Agendamento de tarefas](http://www.vitorbritto.com.br/blog/agendando-tarefas-com-crontab/)
