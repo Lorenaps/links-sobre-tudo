@@ -58,3 +58,6 @@ Pra facilitar minha vida de enxer o hangout/email dos amigos de links e de dar c
 
 # Linux
 - [Crontab - Agendamento de tarefas](http://www.vitorbritto.com.br/blog/agendando-tarefas-com-crontab/)
+
+# Análise de Dados
+- [Estimation Stats - Uma ferramenta online que a partir de um csv faz análises estatistica de forma automatica. É possível customizar algumas configurações como: tamanho do intervalo de confiança, métrica (diferença da média, diferença da mediana..) ](https://www.estimationstats.com/#/)
