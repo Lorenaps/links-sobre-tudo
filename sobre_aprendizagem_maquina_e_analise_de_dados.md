@@ -21,7 +21,7 @@
 ### Tensorflow
 - [Tensorflow + Windows - Tutorial 1](https://wesinalves.github.io/tensorflow/2018/09/13/instalacao-windows.html)
 - [Tensorflow + Windows - Tutorial 2](https://stackabuse.com/installing-tensorflow-on-windows/)
-
+- [Coleção de notebooks sobre Deep Learning, TensorFlow e PyTorch](https://github.com/rasbt/deeplearning-models)
 
 # Análise de Dados
 - [Estimation Stats - Uma ferramenta online que a partir de um csv faz análises estatísticas de forma automatica. É possível customizar algumas configurações como: tamanho do intervalo de confiança, métrica (diferença da média, diferença da mediana..) ](https://www.estimationstats.com/#/)
