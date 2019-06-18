@@ -5,3 +5,7 @@
 - [Absence of evidence is not evidence of absence](https://www.bmj.com/content/328/7438/476?ijkey=8a4d2085ee94e2959d61467bd540c44ee655cdad&keytype2=tf_ipsecsha)
 - [Bootstrap confidence intervals](https://math.mit.edu/~dav/05.dir/class24-prep-a.pdf)
 - [Reportando resultados by Psychology Writing Center](https://depts.washington.edu/psych/files/writing_center/stats.pdf)
+
+## Regressão
+
+- [Introducing the linear model - DISCOVERING STATISTICS](http://www.discoveringstatistics.com/docs/linearmodels.pdf)
