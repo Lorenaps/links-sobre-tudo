@@ -17,6 +17,8 @@
 - [Gerando paleta automaticamente](https://coolors.co/app)
 - [Your Friendly Guide to Colors in Data Visualisation](https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/)
 - [Exercícios para estudar cores](https://color.method.ac/)
+- [Gerador de gradiente](https://uigradients.com/)
+- [Edição de gradientes](http://angrytools.com/gradient/image)
 
 ## Layouts interessantes
 - [On Average](https://99percentinvisible.org/episode/on-average/)
