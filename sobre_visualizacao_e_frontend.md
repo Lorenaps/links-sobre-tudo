@@ -8,6 +8,8 @@
 - [Notebooks de introdução ao Observable](https://beta.observablehq.com/collection/@observablehq/introduction)
 - [Guia sobre eixos e legendas](https://beta.observablehq.com/@jheer/a-guide-to-guides-axes-legends-in-vega)
 - [Viser is a toolkit fit for data vis engineer](https://viserjs.github.io/demoHome.html)
+- [Visualização de dados em mapas com Python](https://python-visualization.github.io/folium/quickstart.html)
+- [Interactive Data Visualization in Python With Bokeh](https://realpython.com/python-data-visualization-bokeh/)
 
 ## Cores:
 - [The Power of The Palette: Why Color is Key in Data Visualization and How to Use It](https://theblog.adobe.com/the-power-of-the-palette-why-color-is-key-in-data-visualization-and-how-to-use-it/)
