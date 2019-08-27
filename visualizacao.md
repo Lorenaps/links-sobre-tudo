@@ -28,6 +28,9 @@
 
 # Frontend
 
+Pra mexer com WEB java script é fundamental, entonces...
+[JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
+
 ## Angular
 - [Problema de ter sempre que rodar o `ng serve` para atualizar a aplicação](https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers)
   
