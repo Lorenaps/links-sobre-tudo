@@ -15,6 +15,7 @@
 - [Line breaks and blank spaces](https://tex.stackexchange.com/questions/9852/what-is-the-difference-between-page-break-and-new-page)
 
 ## Tabelas
+`
 \begin{table}[H]
 \caption{Descrição do PEAS para um robô aspirador de pó}
   \label{tab:exemploPEAS}
@@ -29,7 +30,7 @@
       \\ \hline
   \end{tabular}
 \end{table}
-
+`
 A mágica acontece em {|p{5cm}|p{3cm}|}
 Me bati por tanto tempo ¬¬ 
 Vc especifica o tamanho de cada coluna de acordo com a qtd de colunas
