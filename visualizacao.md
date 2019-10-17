@@ -10,6 +10,7 @@
 - [Viser is a toolkit fit for data vis engineer](https://viserjs.github.io/demoHome.html)
 - [Visualização de dados em mapas com Python](https://python-visualization.github.io/folium/quickstart.html)
 - [Interactive Data Visualization in Python With Bokeh](https://realpython.com/python-data-visualization-bokeh/)
+- [Guia de visualização com dados em D3](https://nazareno.github.io/intro-d3/)
 
 ## Cores:
 - [The Power of The Palette: Why Color is Key in Data Visualization and How to Use It](https://theblog.adobe.com/the-power-of-the-palette-why-color-is-key-in-data-visualization-and-how-to-use-it/)
