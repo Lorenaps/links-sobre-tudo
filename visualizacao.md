@@ -30,7 +30,10 @@
 # Frontend
 
 Pra mexer com WEB java script é fundamental, entonces...
-[JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
+- [JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
+
+## Cursos:
+- [Curso Online de User Interface Design](https://uilab.com.br/cursos/co/curso-online-user-interface-design/#pricing)
 
 ## Angular
 - [Problema de ter sempre que rodar o `ng serve` para atualizar a aplicação](https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers)
