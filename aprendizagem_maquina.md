@@ -1,13 +1,3 @@
-# Python
-- [Trabalhando com muitos arquivos](http://jonathansoma.com/lede/foundations-2017/classes/working-with-many-files/class/)
-- [Pyplot: LaTeX Math Env.](https://stackoverflow.com/questions/27474322/why-i-get-error-while-trying-to-use-latex-in-plots-label)
-- [Modules vs Packages vs Libraries in Python](https://knowpapa.com/modpaclib-py/)
-- [Pycubator - Exceções](http://df.python.org.br/pycubator/07-exceptions.html#/1)
-
-### Pandas 
-- [Lendo csv com Pandas](https://medium.com/@kadek/elegantly-reading-multiple-csvs-into-pandas-e1a76843b688)
-- [Concatenando data frames](https://gist.github.com/abladon/72c4eb17546a3c195978)
-
 # Aprendizagem de Máquina
 - [Modelos de Regressão](https://scholarsarchive.byu.edu/facpub/2322/)
 - [Afinal, Por Que a Regularização Ajuda a Reduzir o Overfitting? - Deep Learning Book](http://deeplearningbook.com.br/afinal-por-que-a-regularizacao-ajuda-a-reduzir-o-overfitting/)
