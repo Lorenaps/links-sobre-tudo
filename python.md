@@ -10,3 +10,8 @@
 ## Pandas 
 - [Lendo csv com Pandas](https://medium.com/@kadek/elegantly-reading-multiple-csvs-into-pandas-e1a76843b688)
 - [Concatenando data frames](https://gist.github.com/abladon/72c4eb17546a3c195978)
+
+## Jupyter
+
+- [Parametrizando notebooks](https://papermill.readthedocs.io/en/latest/)
+
