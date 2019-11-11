@@ -15,28 +15,8 @@
 - [Line breaks and blank spaces](https://tex.stackexchange.com/questions/9852/what-is-the-difference-between-page-break-and-new-page)
 
 ## Tabelas
-`
-\begin{table}[H]
-\caption{Descrição do PEAS para um robô aspirador de pó}
-  \label{tab:exemploPEAS}
-  \centering
-  \begin{tabular}{|p{5cm}|p{3cm}|}
-      \hline
-      Tipo de Agente & Aspirador de pó \\ \hline
-       Medida de Desempenho & Deixar o chão limpo \\ \hline
-      Ambiente & Pessoas, animais, móveis, cômodos  \\ \hline
-     Atuadores & Direção, aspiração \\ \hline
-     Sensores  & Sensores de sujeira, de obstáculos, de distância e de bateria. 
-      \\ \hline
-  \end{tabular}
-\end{table}
-`
-A mágica acontece em {|p{5cm}|p{3cm}|}
-Me bati por tanto tempo ¬¬ 
-Vc especifica o tamanho de cada coluna de acordo com a qtd de colunas
-se fossem 3 colunas, seria {|p{5cm}|p{3cm}|p{4cm}|}
-obs: atenção aos | | 
-obs2: ele aceita decimal tbm, tipo {|2,5cm|}
+
+- [Latex Tables Generator](https://www.tablesgenerator.com/)
 
 ## Publicaçes
 
