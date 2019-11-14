@@ -8,3 +8,8 @@
 ## Programas
 
 - [Instalação pgAdmin4 no Ubuntu - Edivaldo Brito](https://www.edivaldobrito.com.br/pgadmin4-no-ubuntu/)
+
+## Comandos
+
+- [Comando `curl`](https://curl.haxx.se/docs/manpage.html).
+
