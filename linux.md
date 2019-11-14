@@ -13,3 +13,5 @@
 
 - [Comando `curl`](https://curl.haxx.se/docs/manpage.html).
 
+- [Uso de disco](https://www.tecmint.com/how-to-check-disk-space-in-linux/).
+
