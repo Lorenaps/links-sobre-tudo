@@ -13,6 +13,7 @@
 - [LaTeX/Source Code Listings](https://en.wikibooks.org/wiki/LaTeX/Source_Code_Listings)
 - [What is the difference between “Page Break” and “New Page”?](https://tex.stackexchange.com/questions/9852/what-is-the-difference-between-page-break-and-new-page)
 - [Line breaks and blank spaces](https://tex.stackexchange.com/questions/9852/what-is-the-difference-between-page-break-and-new-page)
+- [Bibtex Entry Types, Field Types and Usage Hints](https://www.openoffice.org/bibliographic/bibtex-defs.html)
 
 ## Tabelas
 
