@@ -9,6 +9,7 @@
 
 - [Instalação pgAdmin4 no Ubuntu - Edivaldo Brito](https://www.edivaldobrito.com.br/pgadmin4-no-ubuntu/)
 - [Mongo Compas Community - Interface gráfica para o mongodb](https://www.mongodb.com/download-center/compass)
+- [Digital ocean - install mongodb](https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-18-04)
 
 ## Comandos
 
