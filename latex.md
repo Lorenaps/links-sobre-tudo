@@ -22,3 +22,7 @@
 ## Publicaçes
 
 - [Algumas normas da CAPES](http://www.cnpq.br/view/-/journal_content/56_INSTANCE_0oED/10157/100352)
+
+## Referências dentro do texto
+
+- Para referenciar uma tabela ou imagem usar /autoref{label_do_recusro} ao invés de usar /ref{label_do_recusro}, pois assim aparece no texto **Tabela N** ao invés de **N** e você ter que escrever Tabela, Imagem toda vez que for citar um desses itens.
