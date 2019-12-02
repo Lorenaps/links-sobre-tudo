@@ -34,3 +34,6 @@
 
 - [Parametrizando notebooks](https://papermill.readthedocs.io/en/latest/)
 
+- [Embedding Matplotlib Animations](http://louistiao.me/posts/notebooks/embedding-matplotlib-animations-in-jupyter-notebooks/)
+  - `ffmpeg` MovieWriter [issue](https://stackoverflow.com/questions/13316397/matplotlib-animation-no-moviewriters-available)
+
