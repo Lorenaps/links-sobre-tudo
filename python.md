@@ -26,7 +26,12 @@
     
     ~~~
 
+- Similaridade entre strings:
+  - [SequenceMatcher](https://stackoverflow.com/questions/17388213/find-the-similarity-metric-between-two-strings)
+  - [Levenshtein *vs*. SequenceMatcher](https://stackoverflow.com/questions/6690739/high-performance-fuzzy-string-comparison-in-python-use-levenshtein-or-difflib)
+
 ## Pandas 
+
 - [Lendo csv com Pandas](https://medium.com/@kadek/elegantly-reading-multiple-csvs-into-pandas-e1a76843b688)
 - [Concatenando data frames](https://gist.github.com/abladon/72c4eb17546a3c195978)
 
