@@ -28,6 +28,7 @@
 
 - Similaridade entre strings:
   - [SequenceMatcher](https://stackoverflow.com/questions/17388213/find-the-similarity-metric-between-two-strings)
+  - [Levenshtein & Cosine Similarity](https://towardsdatascience.com/calculating-string-similarity-in-python-276e18a7d33a)
   - [Levenshtein *vs*. SequenceMatcher](https://stackoverflow.com/questions/6690739/high-performance-fuzzy-string-comparison-in-python-use-levenshtein-or-difflib)
 
 ## Pandas 
