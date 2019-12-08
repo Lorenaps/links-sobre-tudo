@@ -43,3 +43,9 @@
 - [Embedding Matplotlib Animations](http://louistiao.me/posts/notebooks/embedding-matplotlib-animations-in-jupyter-notebooks/)
   - `ffmpeg` MovieWriter [issue](https://stackoverflow.com/questions/13316397/matplotlib-animation-no-moviewriters-available)
 
+## RegEx
+
+- Usando RegEx para encontrar números primos:
+  - Código `python` [aqui](https://stackoverflow.com/a/33951990)
+  - Explicação detalhada [aqui](https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/)
+
