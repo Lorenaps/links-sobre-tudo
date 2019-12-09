@@ -38,6 +38,9 @@ Pra mexer com WEB java script é fundamental, entonces...
 
 ## Angular
 - [Problema de ter sempre que rodar o `ng serve` para atualizar a aplicação](https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers)
+
+## Mapas
+- [Como adicionar propriedades de um CSV em um arquivo TopoJson](https://stackoverflow.com/questions/18444261/how-to-add-properties-to-topojson-file?lq=1)
   
 ## Outros
 ### Imagens aleatórias para inserir
