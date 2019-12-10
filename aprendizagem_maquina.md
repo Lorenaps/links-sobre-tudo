@@ -10,7 +10,7 @@
 
 ## Regressão
 
-- [Introducing the linear model - DISCOVERING STATISTICS](http://www.discoveringstatistics.com/docs/linearmodels.pdf)
+- [Discovering Statistics - Introducing the linear model](http://www.discoveringstatistics.com/docs/linearmodels.pdf)
 
 ## Bibliotecas
 
