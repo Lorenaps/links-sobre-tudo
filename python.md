@@ -36,6 +36,7 @@
 - [Lendo csv com Pandas](https://medium.com/@kadek/elegantly-reading-multiple-csvs-into-pandas-e1a76843b688)
 - [Concatenando data frames](https://gist.github.com/abladon/72c4eb17546a3c195978)
 - [Working with missing data](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html)
+- [Pandas Select rows by condition and String Operations](https://kanoki.org/2019/03/27/pandas-select-rows-by-condition-and-string-operations/)
 
 ## Jupyter
 
