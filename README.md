@@ -10,14 +10,19 @@ Pra facilitar a vida de encher os amigos de links e ter que dar Ctrl+f nas mensa
 - [Estatística](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/estatistica.md)
 - [SQL](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/sql.md)
 
+### Linux
+
+- [Linux](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/linux.md)
+
+### Livros
+Inclusive dos assuntos já listados nos outros tópicos
+
+- [Livros](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/livros.md)
+
 ### Pesquisa Científica
 
 - [Latex](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/latex.md)
 - [Pesquisa Científica](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/pesquisa_cientifica.md)
-
-### Visualização/Frontend
-
-- [Visualização de dados e Frontend](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/visualizacao.md)
 
 ### Programação e versionamento
 
@@ -25,11 +30,6 @@ Pra facilitar a vida de encher os amigos de links e ter que dar Ctrl+f nas mensa
 - [Python](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/python.md)
 - [R](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/r.md)
 
-### Livros gerais
-Inclusive dos assuntos já listados nos outros tópicos
+### Visualização/Frontend
 
-- [Livros](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/livros.md)
-
-### Linux
-
-- [Linux](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/linux.md)
+- [Visualização de dados e Frontend](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/visualizacao.md)
