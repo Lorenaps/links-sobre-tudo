@@ -3,7 +3,7 @@ Pra facilitar a vida de encher os amigos de links e ter que dar Ctrl+f nas mensa
 
 ## Assuntos:
 
-### Análise de Dados
+### Análise de dados
 
 - [Análise e Fontes de dados](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/analise_e_fonte_dados.md)
 - [Aprendizagem de Máquina](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/aprendizagem_maquina.md)
@@ -19,7 +19,7 @@ Inclusive dos assuntos já listados nos outros tópicos
 
 - [Livros](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/livros.md)
 
-### Pesquisa Científica
+### Pesquisa científica
 
 - [Latex](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/latex.md)
 - [Pesquisa Científica](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/pesquisa_cientifica.md)
