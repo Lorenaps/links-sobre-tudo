@@ -13,7 +13,7 @@
 
 ## Comandos
 
+- [Ferramenta que explica parte por parte de um comando shell](https://explainshell.com/)
 - [Comando `curl`](https://curl.haxx.se/docs/manpage.html).
-
-- [Uso de disco](https://www.tecmint.com/how-to-check-disk-space-in-linux/).
+- [Verificando o uso de disco](https://www.tecmint.com/how-to-check-disk-space-in-linux/).
 
