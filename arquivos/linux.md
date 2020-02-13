@@ -17,3 +17,15 @@
 - [Comando `curl`](https://curl.haxx.se/docs/manpage.html).
 - [Verificando o uso de disco](https://www.tecmint.com/how-to-check-disk-space-in-linux/).
 
+- Procurando por um processo a partir do nome
+
+  `sudo netstat -tlpn | grep 8050`
+
+- Verificar se a porta 8050 esta sendo utilizada
+
+  `sudo netstat -tlpn | grep 8050`
+
+- Buscar por todos os processo que tenha "8050
+
+  `ps -ef | grep 8050`
+
