@@ -26,6 +26,7 @@ Inclusive dos assuntos já listados nos outros tópicos
 
 ### Programação e versionamento
 
+- [Docker](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/docker.md)
 - [Git](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/git.md)
 - [Python](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/python.md)
 - [R](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/r.md)
