@@ -17,8 +17,4 @@
 - [Tensorflow + Windows - Tutorial 1](https://wesinalves.github.io/tensorflow/2018/09/13/instalacao-windows.html)
 - [Tensorflow + Windows - Tutorial 2](https://stackabuse.com/installing-tensorflow-on-windows/)
 - [Coleção de notebooks sobre Deep Learning, TensorFlow e PyTorch](https://github.com/rasbt/deeplearning-models)
-
-## Análise textual
-
-- [Pode ser útil: portuguese-brazilian-synonyms by Rafael Stavarengo e ferramenta TeP2.0](https://github.com/stavarengo/portuguese-brazilian-synonyms)
-- [Ferramenta TeP2.0](http://www.nilc.icmc.usp.br/tep2/busca.php) 
+ 
