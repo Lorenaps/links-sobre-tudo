@@ -17,6 +17,7 @@
 - [Tipos de Entradas dos Arquivos Bibtex (.bib)](http://carinercrs.blogspot.com/2011/04/tipos-de-entradas-dos-arquivos-bibtex.html)
   - Em maiores detalhes [aqui](http://bib-it.sourceforge.net/help/fieldsAndEntryTypes.php)
 - [Formatação de texto (espaçamento)](https://en.wikibooks.org/wiki/LaTeX/Text_Formatting)
+- [Documentação do pacote `apacite`](https://ctan.math.illinois.edu/macros/latex/contrib/apacite/apacite.pdf)
 
 ## Tabelas
 
