@@ -15,7 +15,7 @@ Pra mexer com WEB java script é fundamental, entonces...
 ## Angular
 - [Problema de ter sempre que rodar o `ng serve` para atualizar a aplicação](https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers)
 
-## Cores:
+## Cores
 - [The Power of The Palette: Why Color is Key in Data Visualization and How to Use It](https://theblog.adobe.com/the-power-of-the-palette-why-color-is-key-in-data-visualization-and-how-to-use-it/)
 - [ColorBrewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 - [Criando paleta de cores sequencial ou divergente a partir da indicação de cores base](http://gka.github.io/palettes/#colors=lightyellow,orange,deeppink,darkred|steps=7|bez=1|coL=1)
