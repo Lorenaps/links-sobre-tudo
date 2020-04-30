@@ -1,5 +1,7 @@
 
 # Visualização de Dados
+
+## Catálogos
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html)
 - [From Data to Viz](https://www.data-to-viz.com/)
 - [IBM - Visual theories applied data](https://www.ibm.com/design/v1/language/experience/data-visualization/visualization/)
@@ -27,17 +29,6 @@
 ## Layouts interessantes
 - [On Average](https://99percentinvisible.org/episode/on-average/)
 - [Híbridos](https://hibridos.cc/en/rituals/)
-
-# Frontend
-
-Pra mexer com WEB java script é fundamental, entonces...
-- [JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
-
-## Cursos:
-- [Curso Online de User Interface Design](https://uilab.com.br/cursos/co/curso-online-user-interface-design/#pricing)
-
-## Angular
-- [Problema de ter sempre que rodar o `ng serve` para atualizar a aplicação](https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers)
 
 ## Mapas
 - [Como adicionar propriedades de um CSV em um arquivo TopoJson](https://stackoverflow.com/questions/18444261/how-to-add-properties-to-topojson-file?lq=1)
