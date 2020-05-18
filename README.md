@@ -12,6 +12,10 @@ Pra facilitar a vida de encher os amigos de links e ter que dar Ctrl+f nas mensa
 - [Limpeza de Dados](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/limpeza_de_dados.md)
 - [SQL](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/sql.md)
 
+### Concursos
+
+- [Questões](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/questoes_concursos.md)
+
 ### Linux
 
 - [Linux](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/linux.md)
