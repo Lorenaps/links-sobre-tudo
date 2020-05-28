@@ -26,9 +26,10 @@
 - [Gerador de gradiente](https://uigradients.com/)
 - [Edição de gradientes](http://angrytools.com/gradient/image)
 
-## Layouts interessantes
+## Layouts/Projetos interessantes
 - [On Average](https://99percentinvisible.org/episode/on-average/)
 - [Híbridos](https://hibridos.cc/en/rituals/)
+- [Hopeful views of the world through data and drawings](https://happy-data.co/)
 
 ## Mapas
 - [Como adicionar propriedades de um CSV em um arquivo TopoJson](https://stackoverflow.com/questions/18444261/how-to-add-properties-to-topojson-file?lq=1)
