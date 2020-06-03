@@ -1,18 +1,11 @@
 # Python
 - [Trabalhando com muitos arquivos](http://jonathansoma.com/lede/foundations-2017/classes/working-with-many-files/class/)
-
 - [Pyplot: LaTeX Math Env.](https://stackoverflow.com/questions/27474322/why-i-get-error-while-trying-to-use-latex-in-plots-label)
-
 - [Modules vs Packages vs Libraries in Python](https://knowpapa.com/modpaclib-py/)
-
 - [Pycubator - Exceções](http://df.python.org.br/pycubator/07-exceptions.html#/1)
-
 - [How to Use Python Profilers: Learn the Basics](https://stackify.com/how-to-use-python-profilers-learn-the-basics/)
-
 - [How to profile memory usage in Python](https://www.pluralsight.com/blog/tutorials/how-to-profile-memory-usage-in-python)
-
 - [Um pacote massa pra laços longos](https://tqdm.github.io/)
-
 - [Acesso ao Unicode Database](https://docs.python.org/3/library/unicodedata.html)
 
   - Exemplo de uso:
@@ -42,9 +35,10 @@
 ## Jupyter
 
 - [Parametrizando notebooks](https://papermill.readthedocs.io/en/latest/)
-
 - [Embedding Matplotlib Animations](http://louistiao.me/posts/notebooks/embedding-matplotlib-animations-in-jupyter-notebooks/)
-  - `ffmpeg` MovieWriter [issue](https://stackoverflow.com/questions/13316397/matplotlib-animation-no-moviewriters-available)
+  - `ffmpeg` MovieWriter [issue](https://stackoverflow.com/questions/13316397/matplotlib-animation-no-moviewriters-available) 
+- [nbviewer - A simple way to share Jupyter Notebooks](https://nbviewer.jupyter.org/)
+- [Binder - Executando notebooks pelo navegador](https://mybinder.org/)
 
 ### Google Colab
 
