@@ -38,6 +38,7 @@
 - [Working with missing data](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html)
 - [Pandas Select rows by condition and String Operations](https://kanoki.org/2019/03/27/pandas-select-rows-by-condition-and-string-operations/)
 - [Python Pandas Groupby Tutorial](http://www.pybloggers.com/2018/12/python-pandas-groupby-tutorial/)
+
 ## Jupyter
 
 - [Parametrizando notebooks](https://papermill.readthedocs.io/en/latest/)
@@ -45,9 +46,15 @@
 - [Embedding Matplotlib Animations](http://louistiao.me/posts/notebooks/embedding-matplotlib-animations-in-jupyter-notebooks/)
   - `ffmpeg` MovieWriter [issue](https://stackoverflow.com/questions/13316397/matplotlib-animation-no-moviewriters-available)
 
+### Google Colab
+
+- [Importing a library that is not in Colaboratory](https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb#scrollTo=iDu3Slhq2zyh)
+
 ## RegEx
 
 - Usando RegEx para encontrar números primos:
   - Código `python` [aqui](https://stackoverflow.com/a/33951990)
   - Explicação detalhada [aqui](https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/)
+  
+
 
