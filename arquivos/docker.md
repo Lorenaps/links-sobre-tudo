@@ -1,6 +1,6 @@
 # Docker
 
-- [Play with Docker classroom](https://training.play-with-docker.com/ops-s1-hello/)
+- [Play with Docker classroom - Lista de tutoriais](https://training.play-with-docker.com/alacart/)
 
 ## Pós instalação
 
