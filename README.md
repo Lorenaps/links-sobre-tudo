@@ -29,6 +29,7 @@ Inclusive dos assuntos já listados nos outros tópicos
 
 - [Latex](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/latex.md)
 - [Pesquisa Científica](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/pesquisa_cientifica.md)
+- [Modelagem Matemática](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/modelagem_matematica.md)
 
 ### Programação e versionamento
 
