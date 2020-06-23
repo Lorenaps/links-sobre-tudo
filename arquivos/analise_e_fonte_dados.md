@@ -10,4 +10,5 @@
 - [A collective list of APIs](https://apilist.fun/)
 - [Consulte CEPs de todo o Brasil](https://viacep.com.br/)
 - [Global Burden of Disease Study 2017 (GBD 2017) Data Resources](http://ghdx.healthdata.org/gbd-2017)
+- [Brasil.io - Auxilio emergencial](https://brasil.io/dataset/govbr/auxilio_emergencial/)
 
