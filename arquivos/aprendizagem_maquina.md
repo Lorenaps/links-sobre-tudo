@@ -9,7 +9,7 @@
 - [How to perform two-sample one-tailed t-test in Python](http://evafengeva.blogspot.com/2017/09/how-to-interpret-results-of-two-sample.html)
 
 ## Regressão
-
+- [Gradiente](http://cursos.leg.ufpr.br/ML4all/apoio/Gradiente.html)
 - [Discovering Statistics - Introducing the linear model](http://www.discoveringstatistics.com/docs/linearmodels.pdf)
 
 ## Bibliotecas
