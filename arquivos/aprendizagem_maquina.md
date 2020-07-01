@@ -1,5 +1,4 @@
 # Aprendizagem de Máquina
-
 - [Modelos de Regressão](https://scholarsarchive.byu.edu/facpub/2322/)
 - [Afinal, Por Que a Regularização Ajuda a Reduzir o Overfitting? - Deep Learning Book](http://deeplearningbook.com.br/afinal-por-que-a-regularizacao-ajuda-a-reduzir-o-overfitting/)
 - [Gradiente Boosting](https://explained.ai/gradient-boosting/index.html)
@@ -11,6 +10,9 @@
 ## Regressão
 - [Gradiente](http://cursos.leg.ufpr.br/ML4all/apoio/Gradiente.html)
 - [Discovering Statistics - Introducing the linear model](http://www.discoveringstatistics.com/docs/linearmodels.pdf)
+
+## Classificação
+- [ Comparando Classificadores: Árvores de Decisão, K-NN e Naive Bayes](https://insightlab.ufc.br/comparando-classificadores-arvores-de-decisao-k-nn-e-naive-bayes/)
 
 ## Bibliotecas
 
