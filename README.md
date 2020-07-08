@@ -38,6 +38,9 @@ Inclusive dos assuntos já listados nos outros tópicos
 - [Python](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/python.md)
 - [R](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/r.md)
 
+### Projetos e repositórios interessantes
+- [Projetos e repositórios interessantes](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/projetos_interessantes.md)
+
 ### Visualização/Frontend
 
 - [Visualização de dados e Frontend](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/visualizacao.md)
