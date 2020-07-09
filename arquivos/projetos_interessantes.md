@@ -2,6 +2,8 @@
 
 - [Killed by Google](https://killedbygoogle.com/)
 
-## Laboratórios
+## Mapeamentos
+- [Mapa da desigualdade 2020 - Casa fluminense](https://casafluminense.org.br/mapa-da-desigualdade/)
 
--[Laboratório de emergência - Silo](https://labdeemergencia.silo.org.br/2ed/pt/)
+## Laboratórios
+- [Laboratório de emergência - Silo](https://labdeemergencia.silo.org.br/2ed/pt/)
