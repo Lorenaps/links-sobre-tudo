@@ -11,4 +11,5 @@
 - [Consulte CEPs de todo o Brasil](https://viacep.com.br/)
 - [Global Burden of Disease Study 2017 (GBD 2017) Data Resources](http://ghdx.healthdata.org/gbd-2017)
 - [Brasil.io - Auxilio emergencial](https://brasil.io/dataset/govbr/auxilio_emergencial/)
-
+- [Comissão econômica para américa latina e o caribe](https://www.cepal.org/en/datos-y-estadisticas)
+- [Mapa Social do Corona - Observatório de favelas](http://of.org.br/mapa-social-do-corona/)
