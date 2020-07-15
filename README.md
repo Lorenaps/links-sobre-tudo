@@ -16,6 +16,23 @@ Pra facilitar a vida de encher os amigos de links e ter que dar Ctrl+f nas mensa
 
 - [Questões](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/questoes_concursos.md)
 
+### Desenvolvimento de software e versionamento
+
+- [Docker](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/docker.md)
+- [Git](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/git.md)
+- [Python](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/python.md)
+- [R](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/r.md)
+
+### Desenvolvimento WEB e Visualização de dados
+
+- [WEB](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/web.md)
+- [Visualização de dados e Frontend](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/visualizacao.md)
+
+### Infraestrutura
+Entendendo a infra e processos de empresas que se apoiam em dados.
+
+- [Infraestrutura](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/infraestrutura.md)
+
 ### Linux
 
 - [Linux](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/linux.md)
@@ -31,20 +48,7 @@ Inclusive dos assuntos já listados nos outros tópicos
 - [Pesquisa Científica](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/pesquisa_cientifica.md)
 - [Modelagem Matemática](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/modelagem_matematica.md)
 
-### Programação e versionamento
-
-- [Docker](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/docker.md)
-- [Git](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/git.md)
-- [Python](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/python.md)
-- [R](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/r.md)
-
 ### Projetos e repositórios interessantes
+
 - [Projetos e repositórios interessantes](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/projetos_interessantes.md)
 
-### Visualização/Frontend
-
-- [Visualização de dados e Frontend](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/visualizacao.md)
-
-### Desenvolvimento WEB
-
-- [WEB](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/web.md)
