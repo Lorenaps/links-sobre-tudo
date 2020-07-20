@@ -1,6 +1,7 @@
 # Projetos e repositórios interessantes
 
 - [Killed by Google](https://killedbygoogle.com/)
+- [NewYorkTimes - Times Machine: Browse the newspaper archives](https://timesmachine.nytimes.com/browser)
 
 ## Mapeamentos
 - [Mapa da desigualdade 2020 - Casa fluminense](https://casafluminense.org.br/mapa-da-desigualdade/)
