@@ -16,6 +16,10 @@ Pra facilitar a vida de encher os amigos de links e ter que dar Ctrl+f nas mensa
 
 - [Questões](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/questoes_concursos.md)
 
+### Cultura, tecnologia e novas formas de questionar/entender o mundo
+
+- [Cultura, tecnologia e novas forma de questionar/entender o mundo](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/cultura.md)
+
 ### Desenvolvimento de software e versionamento
 
 - [Docker](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/docker.md)
