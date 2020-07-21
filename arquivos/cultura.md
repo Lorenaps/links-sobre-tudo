@@ -1,4 +1,4 @@
-# Cultura, Tecnologia e novas forma de questionar/entender o mundo.
+# Cultura, tecnologia e novas formas de questionar/entender o mundo
 
 Formas que nos permite, pelo menos, questionar o é dado como conceito e prática fechados.
 
