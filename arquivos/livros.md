@@ -12,3 +12,7 @@
 ## Governo Aberto
 
 - [O que são Dados Abertos?](http://opendatahandbook.org/guide/pt_BR/what-is-open-data/)
+
+## Mineração de Dados e Aprendizagem de Máquina
+
+- [Data Mining and Machine Learning - Mohammed J. Zaki and Wagner Meira, Jr](https://dataminingbook.info/book_html/)
