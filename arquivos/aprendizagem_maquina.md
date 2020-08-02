@@ -1,5 +1,6 @@
 # Aprendizagem de Máquina
 - [Modelos de Regressão](https://scholarsarchive.byu.edu/facpub/2322/)
+- [Regressão Linear MQO por Matheus Facure](https://matheusfacure.github.io/2017/02/15/MQO-formula-analitica/)
 - [Afinal, Por Que a Regularização Ajuda a Reduzir o Overfitting? - Deep Learning Book](http://deeplearningbook.com.br/afinal-por-que-a-regularizacao-ajuda-a-reduzir-o-overfitting/)
 - [Gradiente Boosting](https://explained.ai/gradient-boosting/index.html)
 - [Ordinary Least Squares Regression](http://setosa.io/ev/ordinary-least-squares-regression/)
