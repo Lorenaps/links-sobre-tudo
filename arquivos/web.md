@@ -1,14 +1,5 @@
 # WEB
 
-## Layouts interessantes
-- [On Average](https://99percentinvisible.org/episode/on-average/)
-- [Híbridos](https://hibridos.cc/en/rituals/)
-
-## Cursos
-Pra mexer com WEB java script é fundamental, entonces...
-- [JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
-- [Curso Online de User Interface Design](https://uilab.com.br/cursos/co/curso-online-user-interface-design/#pricing)
-
 ## API
 - [HTTP Status: 204 No Content and 205 Reset Content](https://benramsey.com/blog/2008/05/http-status-204-no-content-and-205-reset-content/)
 
@@ -25,3 +16,16 @@ Pra mexer com WEB java script é fundamental, entonces...
 - [Exercícios para estudar cores](https://color.method.ac/)
 - [Gerador de gradiente](https://uigradients.com/)
 - [Edição de gradientes](http://angrytools.com/gradient/image)
+
+## Cursos
+Pra mexer com WEB java script é fundamental, entonces...
+- [JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
+- [Curso Online de User Interface Design](https://uilab.com.br/cursos/co/curso-online-user-interface-design/#pricing)
+
+## JavaScript
+- [Efeito Máquina de escrever](https://codepen.io/ReneSena/pen/VdXpXO)
+
+## Layouts interessantes
+- [On Average](https://99percentinvisible.org/episode/on-average/)
+- [Híbridos](https://hibridos.cc/en/rituals/)
+
