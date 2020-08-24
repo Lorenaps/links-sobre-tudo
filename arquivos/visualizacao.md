@@ -30,7 +30,7 @@
 - [On Average](https://99percentinvisible.org/episode/on-average/)
 - [Híbridos](https://hibridos.cc/en/rituals/)
 - [Hopeful views of the world through data and drawings](https://happy-data.co/)
-- [Navegação dos gráficos - Weather Saprk](https://pt.weatherspark.com/y/31387/Clima-caracter%C3%ADstico-em-Campina-Grande-Brasil-durante-o-ano)
+- [Navegação nos gráficos - Weather Saprk](https://pt.weatherspark.com/y/31387/Clima-caracter%C3%ADstico-em-Campina-Grande-Brasil-durante-o-ano)
 
 ## Mapas
 - [Como adicionar propriedades de um CSV em um arquivo TopoJson](https://stackoverflow.com/questions/18444261/how-to-add-properties-to-topojson-file?lq=1)
