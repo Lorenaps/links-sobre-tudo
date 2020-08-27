@@ -5,6 +5,7 @@
 - [03 - Conceito geral de Volumes no Docker por bernardolankheet](https://medium.com/@bernardolankheet/03-conceito-geral-de-volumes-no-docker-6d8b08abdc2a)
 - [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 - [Entendendo volumes Docker de uma vez por todas - Curso Docker por Robert Silva](https://www.youtube.com/watch?v=StQYXkFgeeA)
+- [Certificados de segurança no docker](https://docs.docker.com/engine/security/certificates/)
 
 ## Pós instalação
 
