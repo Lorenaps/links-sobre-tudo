@@ -1,5 +1,6 @@
 # Python
 - [Map(), Reduce(), Filter() e Lambda - Python Help](https://pythonhelp.wordpress.com/2012/05/13/map-reduce-filter-e-lambda/)
+- [Operadores em Python - Programiz](https://www.programiz.com/python-programming/operators)
 - [Trabalhando com muitos arquivos](http://jonathansoma.com/lede/foundations-2017/classes/working-with-many-files/class/)
 - [Pyplot: LaTeX Math Env.](https://stackoverflow.com/questions/27474322/why-i-get-error-while-trying-to-use-latex-in-plots-label)
 - [Modules vs Packages vs Libraries in Python](https://knowpapa.com/modpaclib-py/)
