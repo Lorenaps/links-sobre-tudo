@@ -22,6 +22,7 @@ Pra facilitar a vida de encher os amigos de links e ter que dar Ctrl+f nas mensa
 
 ### Desenvolvimento de software e versionamento
 
+- [Banco de Dados](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/banco_de_dados.md)
 - [Docker](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/docker.md)
 - [Git](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/git.md)
 - [Python](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/python.md)
