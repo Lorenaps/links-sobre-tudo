@@ -46,6 +46,11 @@
 
 - [Importing a library that is not in Colaboratory](https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb#scrollTo=iDu3Slhq2zyh)
 
+## Django
+
+- [How to Reset Migrations - By Vitor Freitas](https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html)
+
+
 ## RegEx
 
 - Usando RegEx para encontrar números primos:
