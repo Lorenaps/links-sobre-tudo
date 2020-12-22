@@ -49,7 +49,7 @@
 ## Django
 
 - [How to Reset Migrations - By Vitor Freitas](https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html)
-
+- [Understand Group by in Django with SQL - By Haki Benita](https://hakibenita.com/django-group-by-sql)
 
 ## RegEx
 
