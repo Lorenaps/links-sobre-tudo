@@ -4,6 +4,7 @@
 
 - [Estimation Stats - Uma ferramenta online que a partir de um csv faz análises estatísticas de forma automatica. É possível customizar algumas configurações como: tamanho do intervalo de confiança, métrica (diferença da média, diferença da mediana..) ](https://www.estimationstats.com/#/)
 
+
 ## Fonte de Dados
 
 - [Plataforma de visualização de dados sociais e econômicos do Brasil](http://dataviva.info/pt/)
@@ -15,9 +16,12 @@
 - [Comissão econômica para américa latina e o caribe](https://www.cepal.org/en/datos-y-estadisticas)
 - [Mapa Social do Corona - Observatório de favelas](http://of.org.br/mapa-social-do-corona/)
 
+
 ## Sobre dados abertos 
 
 - [Frictionless Data Lib - A Design Pattern for Accessing Files and Datasets by Rufus Pollock](https://okfnlabs.org/blog/2018/02/15/design-pattern-for-a-core-data-library.html)
+- [Frictionless Data](https://frictionlessdata.io/)
+
 
 ## Arquiterua de software e Dados
 
