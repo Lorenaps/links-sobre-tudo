@@ -17,8 +17,8 @@
 
 ## Sobre dados abertos 
 
--[Frictionless Data Lib - A Design Pattern for Accessing Files and Datasets by Rufus Pollock](https://okfnlabs.org/blog/2018/02/15/design-pattern-for-a-core-data-library.html)
+- [Frictionless Data Lib - A Design Pattern for Accessing Files and Datasets by Rufus Pollock](https://okfnlabs.org/blog/2018/02/15/design-pattern-for-a-core-data-library.html)
 
 ## Arquiterua de software e Dados
 
-- [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/)
+- [Data-Oriented Design - Richard Fabian](https://www.dataorienteddesign.com/dodbook/)
