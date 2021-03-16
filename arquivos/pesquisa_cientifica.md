@@ -10,6 +10,7 @@
 ## Materiais sobre como reportar melhor sua pesquisa
 
 -[EQUATOR Network: "The EQUATOR mission is to achieve accurate, complete, and transparent reporting of all health research studies to support research reproducibility and usefulness."](https://www.equator-network.org/about-us/equator-network-what-we-do-and-how-we-are-organised/)
+
 -[Selecting the appropriate reporting guideline for your article by EQUATOR Network](https://www.equator-network.org/toolkits/selecting-the-appropriate-reporting-guideline/)
 
 ## Posts sobre Projeto de Trabalho de Conclusão do professor [João Arthur](https://joaoarthurbm.github.io/):
