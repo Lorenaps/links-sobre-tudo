@@ -7,6 +7,11 @@
 - [Panorama Histórico da Ciência Aberta](https://mooc.campusvirtual.fiocruz.br/rea/ciencia-aberta/serie1/curso2/introducao.html)
 - [Modelos de citação com base nas normas da ABNT - UNESP](https://www.sorocaba.unesp.br/Home/Biblioteca/modelo-de-citacoes2.pdf)
 
+## Materiais sobre como reportar melhor sua pesquisa
+
+-[EQUATOR Network: "The EQUATOR mission is to achieve accurate, complete, and transparent reporting of all health research studies to support research reproducibility and usefulness."](https://www.equator-network.org/about-us/equator-network-what-we-do-and-how-we-are-organised/)
+-[Selecting the appropriate reporting guideline for your article by EQUATOR Network](https://www.equator-network.org/toolkits/selecting-the-appropriate-reporting-guideline/)
+
 ## Posts sobre Projeto de Trabalho de Conclusão do professor [João Arthur](https://joaoarthurbm.github.io/):
 
 - [20/03/2019 - Projeto de Trabalho de Conclusão de Curso — Introdução ao Curso](https://medium.com/@joaoarthurbm/projeto-de-trabalho-de-conclus%C3%A3o-de-curso-af73c56f793c)
