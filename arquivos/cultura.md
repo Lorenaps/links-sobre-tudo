@@ -1,8 +1,10 @@
-# Cultura, tecnologia e novas formas de questionar/entender o mundo
+# Cultura, comunicação, tecnologia e novas formas de questionar/entender o mundo
 
 Formas que nos permite, pelo menos, questionar o é dado como conceito e prática fechados.
 
 - [LabExperimental - CyberQuilombo](http://labexperimental.org/tag/cyberquilombo/)
+- [Um guia para promover a linguagem inclusiva em português por SSEX BBOX - Sexualidade fora da caixa](https://diversitybbox.com/pt/um-guia-para-promover-a-linguagem-inclusiva-em-portugues/)
+
 
 ## Danças Africanas
 
