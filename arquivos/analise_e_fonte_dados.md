@@ -1,5 +1,13 @@
 # Análise de dados, fonte de dados e dados abertos
 
+## Power BI
+
+- [Import from CSV in Power BI | Fixing missing decimals and columns - Problemas ao importar CSVs com "." como separador de decimal - 
+How to Power BI](https://www.youtube.com/watch?v=wuLnv3QJCHg&ab_channel=HowtoPowerBI)
+> O melhor a fazer é salvar o arquivo indicando que o separador decimal deve ser a vígula, dessa forma:
+> 
+> `dados.to_csv('dados.csv', index=False, decimal=",")` 
+
 ## Análise de Dados
 
 - [Estimation Stats - Uma ferramenta online que a partir de um csv faz análises estatísticas de forma automatica. É possível customizar algumas configurações como: tamanho do intervalo de confiança, métrica (diferença da média, diferença da mediana..) ](https://www.estimationstats.com/#/)
