@@ -6,7 +6,7 @@ Pra facilitar a vida de encher os amigos de links e ter que dar Ctrl+f nas mensa
 ### Análise de dados
 
 - [Análise e Fontes de dados](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/analise_e_fonte_dados.md)
-- [Análise Textual](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/analise_textual.md)
+- [Análise Textual | Regex](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/analise_textual.md)
 - [Aprendizagem de Máquina](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/aprendizagem_maquina.md)
 - [Estatística](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/estatistica.md)
 - [Limpeza de Dados](https://github.com/Lorenaps/links-sobre-tudo/blob/master/arquivos/limpeza_de_dados.md)
